@@ -1,10 +1,6 @@
-<java>
+<!DOCTYPE html>
+<html>
   <head>
-    <p> Hello World <p>
-    </body>
-  <count>
-  <head>
-    <c>mpsd<c>
-   </head>
-  </count>
- </java>
+    <title>Good Morning</title>
+  </head>
+</html>
