@@ -1,6 +1,1 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Good Morning</title>
-  </head>
-</html>
+<p>this is a placeholder item</p>
